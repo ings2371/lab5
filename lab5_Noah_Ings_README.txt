@@ -5,6 +5,9 @@
 github: https://github.com/ings2371/lab5
 https://git.cs.dal.ca/ings/csci-3172/-/tree/main/labs/lab5?ref_type=heads
 
+*deplayed site
+https://csci3172-lab5-noah.netlify.app/projects
+
 ## Authors
 
 * Noah Ings - wk217008@dal.ca
